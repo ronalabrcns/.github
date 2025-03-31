@@ -1,12 +1,8 @@
-## Hi there 👋
-RonaLab
-<!--
 
-**Here are some ideas to get you started:**
+# Rona Lab
+The Rona Lab investigates how cells maintain their genomic integrity. By using genetic, biochemical, and proteomic approaches, we unravel molecular mechanisms to gain a better understanding of diseases. We work towards providing the foundation for innovative, novel therapeutic approaches.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Location
+Institute of Molecular Life Sciences, HUN-REN Research Centre for Natural Sciences (RCNS)\
+Magyar tudósok körútja 2.\
+1117 Budapest, Hungary
