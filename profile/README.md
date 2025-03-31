@@ -1,4 +1,4 @@
-![RonaLab](profile/logo.png)
+![RonaLab](../profile/rona_logo.png)
 # Rona Lab
 The Rona Lab investigates how cells maintain their genomic integrity. By using genetic, biochemical, and proteomic approaches, we unravel molecular mechanisms to gain a better understanding of diseases. We work towards providing the foundation for innovative, novel therapeutic approaches.
 
